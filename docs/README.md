@@ -47,8 +47,12 @@
 
 
 # Коммиты
-7c0cb45 (HEAD -> main) Добавлена документация
-
-d078c8d (origin/main, origin/HEAD) L-03: Docs added
-
+2362f4e (HEAD -> main) Добавлен блок комментария в circlt.py
+7e25ad5 Добавлен блок комментария в square.py
+a205f36 (origin/main, origin/HEAD) Переписала все в readme.md (не заметила сначала:( )
+2e6c1bf Исправлены ошибки
+fb099bd Исправлена документация
+422f3f8 Добавление истории коммитов в документацию
+7c0cb45 Добавлена документация
+d078c8d L-03: Docs added
 8ba9aeb L-03: Circle and square added
