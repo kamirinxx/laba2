@@ -52,4 +52,3 @@
 d078c8d (origin/main, origin/HEAD) L-03: Docs added
 
 8ba9aeb L-03: Circle and square added
-
