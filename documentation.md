@@ -3,15 +3,15 @@
 
 **Circle (circle.py):**
 
-*Площадь:*  = \pi r^2$  
+*Площадь:* $S= \pi r^2$  
 
-*Периметр (длина окружности):*  = 2 \pi r$
+*Периметр (длина окружности):* $P= 2 \pi r$
 
 **Square (square.py):**
 
-*Площадь:*  = a^2$
+*Площадь:* $S= a^2$
 
-*Периметр:*  = 4a$
+*Периметр:*  $P= 4a$
 
 
 ## circle.py
@@ -52,3 +52,5 @@
 d078c8d (origin/main, origin/HEAD) L-03: Docs added
 
 8ba9aeb L-03: Circle and square added
+
+
